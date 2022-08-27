@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/1.FaceTrackerExample/FaceTrackerARExample/FaceTrackerARExample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/3.Hand Detection Slow/HandTracker.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
